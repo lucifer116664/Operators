@@ -1,0 +1,80 @@
+Sunflower 29 40 1 0
+Tulip 16 13 1 0
+Second sunflower 0 0 0 0
+Second tulip 0 0 0 0
+Sunflower 29 40 1 50
+Tulip 16 13 1 24
+Second sunflower 29 40 1 0
+Second tulip 16 13 1 0
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 1 50
+Second tulip 16 13 1 24
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
+Sunflower 29 40 1 0
+Tulip 16 13 1 0
+Second sunflower 0 0 0 0
+Second tulip 0 0 0 0
+Sunflower 29 40 1 75
+Tulip 16 13 1 36
+Second sunflower 29 40 1 0
+Second tulip 16 13 1 0
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 1 75
+Second tulip 16 13 1 36
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
+Sunflower 30 43 1 400
+Tulip 17 14 1 228
+Second sunflower 30 40 0 200
+Second tulip 17 13 0 132
+Sunflower 29 40 1 0
+Tulip 16 13 1 0
+Second sunflower 0 0 0 0
+Second tulip 0 0 0 0
+Sunflower 29 40 1 50
+Tulip 16 13 1 24
+Second sunflower 29 40 1 0
+Second tulip 16 13 1 0
+Sunflower 29 40 1 125
+Tulip 16 13 1 60
+Second sunflower 29 40 1 50
+Second tulip 16 13 1 24
+Sunflower 29 40 0 200
+Tulip 16 13 1 96
+Second sunflower 29 40 1 125
+Second tulip 16 13 1 60
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 1 96
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
+Sunflower 29 40 0 200
+Tulip 16 13 0 132
+Second sunflower 29 40 0 200
+Second tulip 16 13 0 132
